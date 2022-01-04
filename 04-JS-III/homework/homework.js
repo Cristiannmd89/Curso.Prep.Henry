@@ -3,12 +3,16 @@
 function devolverPrimerElemento(array) {
   // Devuelve el primer elemento de un  array (pasado por parametro)
   // Tu código:
+  var array = ['hola',1,2,'chau'];
+  return array[0];
 }
 
 
 function devolverUltimoElemento(array) {
   // Devuelve el último elemento de un array
   // Tu código:
+  var array = ['hola','chau',1,2];
+  return array[array.length -1];
 }
 
 
