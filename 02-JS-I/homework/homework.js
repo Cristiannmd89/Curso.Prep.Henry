@@ -45,8 +45,8 @@ function sumarDosNumeros(x, y) {
 function restarDosNumeros(x, y) {
   // Resta "y" de "x" y devuelve el valor
   // Tu código: 
-  var resta =  x - y;
-  return resta;
+  var restar =  x - y;
+  return restar;
   
 }
 
